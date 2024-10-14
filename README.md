@@ -82,6 +82,15 @@ docker ps -aq
 The following need to be executed in git gitbash for windows
 docker rm -f $(docker ps -aq)
 
+![alt text](image-4.png)
+
+docker run -p 8002:80 -d nginx
+
+Cli based container vs Web Based Container
+
+docker inspect anil_container
+
+docker stats
 
 Day2
 
