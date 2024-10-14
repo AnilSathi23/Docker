@@ -83,4 +83,28 @@ The following need to be executed in git gitbash for windows
 docker rm -f $(docker ps -aq)
 
 
+Day2
+
+Containers vs Virtual Machines
+Build your own Docker image
+Tag and image 
+Registry (Repository where you can add your docker image)
+local vs Remote Repository(Dockerhub)
+
+Apphine is an OS whose size is 7.5 mb
+
+![alt text](image-2.png)
+
+Container size is way less than the actual VM size
+
+Guest OS for VM
+Minimum OS for Containers
+
+
+![alt text](image-3.png)
+
+Responsibility of developer or deveops engineer to make the docker image.
+
+
+
 
