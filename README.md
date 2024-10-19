@@ -90,7 +90,7 @@ Cli based container vs Web Based Container
 
 docker inspect anil_container
 
-docker stats
+docker stats   
 
 Day2
 
