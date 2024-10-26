@@ -228,6 +228,7 @@ docker run -dit --name container2 --network my_bridge busybox
 
 ![alt text](image-6.png)
 
+![alt text](image-7.png)
 
 
 
